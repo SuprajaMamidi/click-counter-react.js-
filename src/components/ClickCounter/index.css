@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+  height: 100vh;
+  width: auto;
+}
+
+.heading {
+  color: #2d3a35;
+  font-size: 40px;
+}
+.count {
+  color: #c20a72;
+}
+
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  border-width: 0px;
+  height: 40px;
+  width: 100px;
+}
